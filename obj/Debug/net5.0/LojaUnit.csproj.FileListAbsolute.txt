@@ -1,0 +1,68 @@
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\appsettings.json
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\LojaUnit.exe
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\LojaUnit.deps.json
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\LojaUnit.runtimeconfig.json
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\LojaUnit.runtimeconfig.dev.json
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\LojaUnit.dll
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\ref\LojaUnit.dll
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\LojaUnit.pdb
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\veron\LojaUnit\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.csprojAssemblyReference.cache
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.AssemblyInfoInputs.cache
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.AssemblyInfo.cs
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.csproj.CoreCompileInputs.cache
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\staticwebassets\LojaUnit.StaticWebAssets.Manifest.cache
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\staticwebassets\LojaUnit.StaticWebAssets.xml
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\scopedcss\bundle\LojaUnit.styles.css
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.RazorTargetAssemblyInfo.cache
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.csproj.CopyComplete
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.dll
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\ref\LojaUnit.dll
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.pdb
+C:\Users\veron\LojaUnit\obj\Debug\net5.0\LojaUnit.genruntimeconfig.cache
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\appsettings.json
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\LojaUnit.exe
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\LojaUnit.deps.json
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\LojaUnit.runtimeconfig.json
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\LojaUnit.runtimeconfig.dev.json
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\LojaUnit.dll
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\ref\LojaUnit.dll
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\LojaUnit.pdb
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\veron\Google Drive\LojaUnit\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.csprojAssemblyReference.cache
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.AssemblyInfoInputs.cache
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.AssemblyInfo.cs
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.csproj.CoreCompileInputs.cache
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\staticwebassets\LojaUnit.StaticWebAssets.Manifest.cache
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\staticwebassets\LojaUnit.StaticWebAssets.xml
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\scopedcss\bundle\LojaUnit.styles.css
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.RazorTargetAssemblyInfo.cache
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.csproj.CopyComplete
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.dll
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\ref\LojaUnit.dll
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.pdb
+C:\Users\veron\Google Drive\LojaUnit\obj\Debug\net5.0\LojaUnit.genruntimeconfig.cache

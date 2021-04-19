@@ -1,0 +1,7 @@
+ASP.NET Core APIs - Repository Pattern e Unit of Work
+dotnet --version 5.0
+
+
+
+
+dotnet new webapi -o LojaUnit
